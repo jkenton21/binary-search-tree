@@ -232,3 +232,5 @@ class Tree {
         this.root = this.buildTree(arr);
     }
 };
+
+module.exports = Tree;
